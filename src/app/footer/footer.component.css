@@ -1,0 +1,10 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer div{
+    width: 7em;
+    margin: 0 auto;
+}
