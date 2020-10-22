@@ -5,6 +5,9 @@
 }
 
 .footer div{
-    width: 7em;
-    margin: 0 auto;
+    text-align: center;
+    
+}
+.footer div p{
+    margin: 0;
 }
